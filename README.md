@@ -1,16 +1,16 @@
-# movie_ticketing_app_concept
+# Movie Ticketing App Concept Speed code
 
-A new Flutter project.
+Flutter movie app concept design usign [figma]([https://docs.flutter.dev/get-started/codelab](https://www.figma.com/community/file/1062765631757096108)) design.
+Spent 3 hours for all 4 screens
 
-## Getting Started
+## Dependencies
+ - carousel_slider
 
-This project is a starting point for a Flutter application.
+## Flutter 3.10
 
-A few resources to get you started if this is your first Flutter project:
+## (IOS Simulator) Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Treamz/movie_ticketing_app_concept/assets/26204241/bb18c274-978a-4e89-952a-bde8bc82a343" width=20% height=20%>
+<img src="https://github.com/Treamz/movie_ticketing_app_concept/assets/26204241/51259769-4df6-42cb-8a36-d101eede52d7" width=20% height=20%>
+<img src="https://github.com/Treamz/movie_ticketing_app_concept/assets/26204241/d7a3e22a-92c5-4159-b253-5a0e280d7c11" width=20% height=20%>
+<img src="https://github.com/Treamz/movie_ticketing_app_concept/assets/26204241/b2dc31f4-5cb3-4015-9c5d-ae1e874a16ca" width=20% height=20%>
